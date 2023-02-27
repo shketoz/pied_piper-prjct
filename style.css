@@ -1,0 +1,137 @@
+@font-face {
+	font-family: Roboto;
+	src: url(fonts/Roboto/Roboto-Regular.ttf);
+}
+.header {
+	background: #007765;
+	margin-top: -100px;
+	width: 100%;
+	border: 0px;
+	padding: 0px;
+	position: fixed;
+}
+.logo {
+	padding: 25px 25px 26px;
+	margin-left: 300px;
+}
+.head_about {
+	font-family: Roboto;
+	font-size: 20px;
+	float: right;
+	margin-left: 277px;
+	margin-right: 300px;
+	padding: 15px;
+}
+.head_link{
+	color: white;
+	text-decoration: none;
+}
+.land {
+	padding: 100px;
+	margin-top: 100px;
+	color: white;
+	background-image: url(img/land.png);
+	background-position: center center;
+	background-size: cover;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 200;
+	font-size: 30px;
+	line-height: 30px;
+	text-align: center;
+}
+.problem_sign {
+	margin: 40px 0px 40px 0px;
+	color: #007765;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 21px;
+	line-height: 30px;
+	text-align: center;
+}
+.problem_text {
+	margin: 20px ;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 40px;
+	margin: 10px 300px;
+}
+.under_problem-text {
+	font-family: Roboto;
+	font-style: italic;
+	color: white;
+	text-align: center;
+	font-size: 40px;
+	line-height: 70px;
+	background-image: url(img/block_after.png);
+	background-position: center center;
+	background-size: cover;
+	padding: 50px 250px 50px;
+}
+.under_problem-text > p {
+	padding: 0px 50px;
+	}
+.introduce_sign {
+	font-family: Roboto;
+	color: #007765;
+	text-align: center;
+	font-weight: 500;
+	font-size: 21px;
+	line-height: 30px;
+	padding-top: 20px;
+}
+.introduce_text {
+	font-family: Roboto;
+	font-size: 30px;
+	line-height: 40px;
+	padding: 10px;
+	margin: -25px 250px 0px;
+}
+.ppc_logo {
+	float: left;
+	padding: 20px;
+	margin-left: 200px;
+}
+.our_team-head {
+	background: #EEEEEE;
+	padding: 0px 100px 600px;
+	margin: 0px;
+	font-family: Roboto;
+	color: #007765;
+	text-align: center;
+	font-weight: 500;
+	font-size: 21px;
+	line-height: 30px;
+	padding-top: 20px;
+}
+.team {
+	font-weight: bold;
+	padding: 20px 20px 0px;
+	margin: 10px 60px 0px;
+}
+.footer {
+	
+	padding: 50px 500px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 32px;
+	text-align: center;
+	background: #333333;
+	color: white;
+}
+a {
+	text-decoration: none;
+}
+
+li {
+	display: inline-block;
+}
+
+ul {
+	height: 29px;
+}
