@@ -21,7 +21,6 @@ Homework of [this Stepik course](https://stepik.org/course/38218/syllabus)
 - Link Anchors
 - EM & REM usage
 - Block, Element, Modifier Methodology
-- Adaptive for Mobile & Desktop
 
 ## Preview
 
