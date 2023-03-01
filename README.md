@@ -25,4 +25,4 @@ Homework of [this Stepik course](https://stepik.org/course/38218/syllabus)
 
 ## Preview
 
-<img src="Images/demo.png" alt="demo" width="500px">
+<img src="img/demo.png" alt="demo" width="500px">
